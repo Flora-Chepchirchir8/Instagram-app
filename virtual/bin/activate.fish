@@ -29,7 +29,11 @@ end
 # unset irrelevant variables
 deactivate nondestructive
 
+<<<<<<< HEAD
 set -gx VIRTUAL_ENV "/home/moringa/Documents/instagram/virtual"
+=======
+set -gx VIRTUAL_ENV "/home/moringa/Documents/Insta-app/virtual"
+>>>>>>> c160efd5fe55ce14a3bb1bf140f2d159760e51d2
 
 set -gx _OLD_VIRTUAL_PATH $PATH
 set -gx PATH "$VIRTUAL_ENV/bin" $PATH

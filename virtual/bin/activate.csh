@@ -8,7 +8,11 @@ alias deactivate 'test $?_OLD_VIRTUAL_PATH != 0 && setenv PATH "$_OLD_VIRTUAL_PA
 # Unset irrelevant variables.
 deactivate nondestructive
 
+<<<<<<< HEAD
 setenv VIRTUAL_ENV "/home/moringa/Documents/instagram/virtual"
+=======
+setenv VIRTUAL_ENV "/home/moringa/Documents/Insta-app/virtual"
+>>>>>>> c160efd5fe55ce14a3bb1bf140f2d159760e51d2
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/bin:$PATH"
